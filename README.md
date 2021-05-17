@@ -1,4 +1,4 @@
-# netfix_data_analysis
+# IMDb Data
 ## Context
 IMDb is the most popular movie website and it combines movie plot description, Metastore ratings, critic and user ratings and reviews, release dates, and many more aspects.
 
